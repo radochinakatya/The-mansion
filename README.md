@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# 🏡 Real Estate Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-v18.2.0-blue) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow) 
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 
-## Available Scripts
+## 🌟 Описание проекта
 
-In the project directory, you can run:
+Одностраничный сайт по продаже недвижимости. Сайт представляет собой статический лендинг, созданный для презентации объектов недвижимости и привлечения клиентов. Веб-сайт выполнен в современном дизайне и включает в себя форму заявки на связь с консультантом.
 
-### `npm start`
+## 🛠️ Технологии
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React** - Использован для создания статичных компонентов страницы.
+- **JavaScript (ES6+)** - Управление поведением страницы, включая попап для заявки на связь.
+- **HTML5** - Структура и разметка страницы.
+- **CSS3** - Стилизация и оформление интерфейса.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Основные функции
 
-### `npm test`
+- **Презентация объектов недвижимости** - Статичная информация о различных объектах.
+- **Форма заявки на связь** - Попап с формой для отправления заявки на обратную связь со специалистом.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Главная страница](https://github.com/user-attachments/assets/467828b3-9a9e-4f7e-bb2c-bec9e495ae85)
 
-### `npm run build`
+## 🎨 Дизайн
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Дизайн сайта выполнен в минималистичном стиле, с акцентом на удобство использования и четкость представленной информации. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Простота навигации** - Основная информация доступна пользователю сразу при загрузке страницы.
+- **Контрастные цвета** - Цветовая палитра выбрана так, чтобы обеспечить хорошую видимость текста и кнопок.
+- **Попап форма** - Стильная и удобная форма заявки, которая появляется при нажатии на соответствующую кнопку.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Пример попапа](https://github.com/user-attachments/assets/d483cfd1-1dfc-45cb-973e-6c4aebacc9d7)
 
-### `npm run eject`
+![](https://github.com/user-attachments/assets/9967143f-9cc9-494d-8ee0-5fae47301e49)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
